@@ -14,7 +14,7 @@ Realizamos el análisis de una red de actores que han participado en películas 
 
 ## Autor:
 
-[Samuel Cardenete RodrÃ­guez](https://github.com/sagmua)
+[Samuel Cardenete Rodríguez](https://github.com/sagmua)
 
 ## Referencias:
 

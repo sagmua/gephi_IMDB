@@ -1,0 +1,6 @@
+GRAFO NO DIRIGIDO:
+
+num_nodos: 3190
+numero de aristas: 4693
+grado medio: 2.942
+Diámetro normalizado: 17

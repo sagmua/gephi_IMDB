@@ -21,8 +21,6 @@ movies = pd.read_csv("movie_metadata.csv")
 movies.shape
 
 
-
-
 # Eliminamos las duplicadas:
 movies = movies.drop_duplicates()
 movies.shape
