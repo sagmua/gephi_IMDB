@@ -5,4 +5,5 @@
 *.pvm
 *.DS_Store
 .Rproj.user
+*.xlsx
 documentacion
